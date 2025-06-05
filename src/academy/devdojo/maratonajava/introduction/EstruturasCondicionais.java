@@ -97,5 +97,20 @@ public class EstruturasCondicionais {
                 System.out.println("Invalid");
                 break;
         }
+
+        // Exercise
+        byte weekDay = 3;
+
+        switch (weekDay) {
+            case 1, 7:
+                System.out.println("Weekend");
+                break;
+            case 2, 3, 4, 5, 6:
+                System.out.println("Business day");
+                break;
+            default:
+                System.out.println("Invalid option!");
+                break;
+        }
     }
 }
