@@ -8,9 +8,9 @@ public class FuncionarioTeste01 {
         Funcionario funcionario = new Funcionario();
         double[] salary = {1600,1800,2000};
 
-        funcionario.name = "Shikamaru Nara";
-        funcionario.age = 19;
-        funcionario.salary = salary;
+        funcionario.setName("Shikamaru Nara");
+        funcionario.setAge(19);
+        funcionario.setSalary(salary);
 
         funcionario.imprime();
     }
