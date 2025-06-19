@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.javacore.introduction.methods.test;
+package academy.devdojo.maratonajava.javacore.methods.test;
 
-import academy.devdojo.maratonajava.javacore.introduction.methods.domain.Funcionario;
+import academy.devdojo.maratonajava.javacore.methods.domain.Funcionario;
 
 public class FuncionarioTeste01 {
     public static void main(String[] args) {

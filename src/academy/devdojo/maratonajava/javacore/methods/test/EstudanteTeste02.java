@@ -1,7 +1,6 @@
-package academy.devdojo.maratonajava.javacore.introduction.methods.test;
+package academy.devdojo.maratonajava.javacore.methods.test;
 
-import academy.devdojo.maratonajava.javacore.introduction.methods.domain.Estudante;
-import academy.devdojo.maratonajava.javacore.introduction.methods.domain.ImpressoraEstudante;
+import academy.devdojo.maratonajava.javacore.methods.domain.Estudante;
 
 public class EstudanteTeste02 {
     public static void main(String[] args) {

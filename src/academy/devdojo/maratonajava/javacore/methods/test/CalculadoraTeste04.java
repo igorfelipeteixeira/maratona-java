@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.javacore.introduction.methods.test;
+package academy.devdojo.maratonajava.javacore.methods.test;
 
-import academy.devdojo.maratonajava.javacore.introduction.methods.domain.Calculadora;
+import academy.devdojo.maratonajava.javacore.methods.domain.Calculadora;
 
 public class CalculadoraTeste04 {
     public static void main(String[] args) {

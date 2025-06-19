@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.introduction.classes.domain;
+package academy.devdojo.maratonajava.javacore.classes.domain;
 
 public class Professor {
 

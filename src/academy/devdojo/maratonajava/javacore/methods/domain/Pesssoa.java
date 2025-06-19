@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.introduction.methods.domain;
+package academy.devdojo.maratonajava.javacore.methods.domain;
 
 public class Pesssoa {
 
